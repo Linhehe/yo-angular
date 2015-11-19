@@ -10,3 +10,11 @@ Run `grunt` for building and `grunt serve` for preview.
 ## Testing
 
 Running `grunt test` will run the unit tests with karma.
+
+# Git
+
+git init
+git add .
+git commit -m "yo-angular"
+git remote add origin https://github.com/Linhehe/yo-angular.git
+git push -u yo master
